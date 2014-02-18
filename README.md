@@ -1,0 +1,2 @@
+trashindicator_fr
+=================
